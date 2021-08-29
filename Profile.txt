@@ -3,3 +3,6 @@ Aeg:
 
 62101266 Jukrin Sangchot
 Age:
+
+62107693 Mubarak Damteh
+Age : 20
